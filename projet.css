@@ -1,0 +1,22 @@
+.section{
+    display: flex;
+    gap: 25px;
+}
+.photo{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    text-decoration: overline;
+}
+footer{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-around;
+}
+body{
+    background-color: antiquewhite;
+    font-family: fantasy;
+}
